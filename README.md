@@ -1,0 +1,1 @@
+orangepi 5plus 在armbian中构建wiringOP的脚本
